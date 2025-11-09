@@ -1,0 +1,7 @@
+# ARC-AGI Pattern Transfer Learning Solver
+# Minimal dependencies for standalone solver
+
+numpy>=1.21.0
+
+# That's it! No other dependencies needed.
+# This solver is designed to be lightweight and reproducible.
